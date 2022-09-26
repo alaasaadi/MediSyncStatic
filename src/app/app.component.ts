@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  template: `<div>Hello {{value}}</div>`,
+  template: `<div>Stay Tuned - {{value}}</div>`,
 })
 export class AppComponent {
-  value = 'World';
+  value = 'Medi Sync Online';
 }
